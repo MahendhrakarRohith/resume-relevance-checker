@@ -1,0 +1,3 @@
+Job Title: Data Scientist
+Required Skills: Python, SQL, Machine Learning, Data Analysis, Pandas, NumPy
+Responsibilities: Analyze data, build ML models, generate reports.
